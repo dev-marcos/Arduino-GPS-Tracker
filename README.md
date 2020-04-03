@@ -5,8 +5,8 @@
 
 ## 1. Configuração de back-end
 
-1. Se você ainda não a possui, [configure a conta da The Things Network] (https://account.thethingsnetwork.org/register)
-2. Crie um novo aplicativo no TTN [Applications Console] (https://console.thethingsnetwork.org/applications)
+1. Se você ainda não a possui, [configure a conta da The Things Network](https://account.thethingsnetwork.org/register)
+2. Crie um novo aplicativo no TTN [Applications Console](https://console.thethingsnetwork.org/applications)
 3. Adicione um novo dispositivo ao seu novo aplicativo TTN e selecione **ABP Activation Method**
 4. Insira **Application EUI**, **Device Address**, **Network Session Key** e **App Session Key** no arquivo `config.h` no projeto Arduino
 5. No código fonte do projeto, descomente a linha configureLora() dentro da função setup(), carregue o codigo, espere o ardiono configurar o módulo Radioenge, comente a linha configureLora() e carregue o código novamente
@@ -98,4 +98,4 @@ Sugestões e comentários são muito apreciados.
 
 ## Créditos
 
-- Agradecimentos a [Jim Lindblom] (https://www.sparkfun.com/users/69916?_ga=2.7991733.605579908.1585914364-1666875447.1582645113) por seu [GPS Logger Shield Hookup Guide] (https://learn.sparkfun.com/tutorials/gps-logger-shield-hookup-guide/example-sketch-sd-card-gps-logging), que veio como uma base e inspiração para este projeto.
+- Agradecimentos a [Jim Lindblom](https://www.sparkfun.com/users/69916?_ga=2.7991733.605579908.1585914364-1666875447.1582645113) por seu [GPS Logger Shield Hookup Guide](https://learn.sparkfun.com/tutorials/gps-logger-shield-hookup-guide/example-sketch-sd-card-gps-logging), que veio como uma base e inspiração para este projeto.
