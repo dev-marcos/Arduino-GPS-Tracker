@@ -29,21 +29,21 @@ Insira o Cartão de mória formatado em FAT ou FAT32.
 
 - **Arduino Uno**
 
-![Arduino Uno](https://uploads.filipeflop.com/2017/07/1AC01-9-1-min.jpeg)
+<img src="https://uploads.filipeflop.com/2017/07/1AC01-9-1-min.jpeg" width="500" >
 
 - **GPS Shield para Arduino**
   - Com Slot para cartão Micro SD
 
-![GPS Shield para Arduino](https://uploads.filipeflop.com/2017/07/1-157.jpg)
+<img src="https://uploads.filipeflop.com/2017/07/1-157.jpg" width="500" >
 
 - **Radioenge IOT-ARDUINO UNO**
 	- O shield para Arduino Uno  permite conectar os módulos EndDevice LoRa Radioenge ao Arduino UnoTM e adicionar a comunicação sem fio de longo alcance LoRa ao seus projetos.*
 
-![IOT-ARDUINO UNO](https://www.radioenge.com.br/uploads/1494f3cf339668b37d784f7066dbf88a1556887391-.png)
+<img src="https://www.radioenge.com.br/storage/2021/12/IOT_Arduino.jpg" alt="Radioenge IOT-ARDUINO UNO" width="500" >
 
 - **Radioenge Módulo LoRaWAN**
 
-![Radioenge LoraWAN](https://www.radioenge.com.br/uploads/a314d81d76563771bba5008cf3642e551566588318-.png)
+<img src="https://www.radioenge.com.br/storage/2021/08/modulo-lorawan-radioenge.jpg " alt="Radioenge LoraWAN" width="500" >
 
 ## Referência
 
