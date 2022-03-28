@@ -1,8 +1,6 @@
 # 🚘 Rastreador GPS para carro com Arduino
 ### Arduino + GPS + LoRa
 
-**Terminar a descrição ainda**
-
 ## 1. Configuração de back-end
 
 1. Se você ainda não a possui, [configure a conta da The Things Network](https://account.thethingsnetwork.org/register)
